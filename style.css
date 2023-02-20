@@ -1,0 +1,16 @@
+label {
+    font-size: 36px;
+    background-color: rgb(59, 179, 4);
+    font-weight: 900;
+
+}
+
+select {
+    font-size: 44px;
+    background-color: rgb(80, 5, 124);
+    color: #fff;
+}
+
+p {
+    font-size: 54px;
+}
